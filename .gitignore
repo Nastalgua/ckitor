@@ -1,0 +1,18 @@
+# macOS specific files
+.DS_Store
+
+# Build artifacts
+build/
+*.o
+*.d
+*.so
+*.dylib
+*.a
+
+# Executable files
+*.out
+
+# VSCode
+.vscode
+
+kilo
